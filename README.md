@@ -8,8 +8,8 @@ Codebase for the fictional WKND site, showcasing the capabilities of Adobe's Edg
 
 <<<<<<< HEAD
 ## Environments
-## - Preview: https://main--wknd--xcLusfx.hlx.page/
-## - Live: https://main--wknd--xcLusfx.hlx.live/
+- Preview: https://main--wknd--xcLusfx.hlx.page/
+- Live: https://main--wknd--xcLusfx.hlx.live/
 
 ## Environments
 - Preview: https://main--wknd--xcLusfx.aem.page/

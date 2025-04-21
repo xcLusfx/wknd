@@ -14,7 +14,7 @@ Codebase for the fictional WKND site, showcasing the capabilities of Adobe's Edg
 ## Environments
 - Preview: https://main--wknd--xcLusfx.aem.page/
 - Live: https://main--wknd--xcLusfx.aem.live/
-=======
+
 ## Features
 
 The AEM Experimentation plugin supports:
